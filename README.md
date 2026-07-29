@@ -56,20 +56,18 @@ I design production-oriented AI systems that turn complex business problems into
 
 <br/>
 
-## Technical Focus
+## Technical Skills
 
-<div align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=22D3EE">
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0A101F?style=for-the-badge&logo=langchain&logoColor=A78BFA">
-  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-0A101F?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0A101F?style=for-the-badge&logo=fastapi&logoColor=10B981">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0A101F?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0A101F?style=for-the-badge&logo=docker&logoColor=22D3EE">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-0A101F?style=for-the-badge&logo=kubernetes&logoColor=A78BFA">
-  <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-0A101F?style=for-the-badge&logo=neo4j&logoColor=10B981">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0A101F?style=for-the-badge&logo=postgresql&logoColor=22D3EE">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-0A101F?style=for-the-badge&logo=powerbi&logoColor=F2C811">
-</div>
+| Area | Technologies & Expertise |
+|---|---|
+| **AI, Machine Learning & Deep Learning** | `TensorFlow` · `PyTorch` · `Keras` · `Scikit-learn` · `Transformers` · Data Preprocessing · Feature Engineering · Fine-tuning |
+| **NLP, LLM & AI Agents** | `LangChain` · `LangGraph` · `CrewAI` · `MCP` · `RAG` · `n8n` · `Hugging Face` · LLM APIs & Local Models · Prompt Engineering · `Claude Code` · `GitHub Copilot` · `Codex` · `NLTK` |
+| **Big Data & Data Engineering** | `Dataiku` · `Apache Spark` · `Hadoop` · `ETL` · `Talend` · SQL/NoSQL Pipelines |
+| **Programming Languages** | `Python` · `R` · `Java` · `Scala` · `C` · `C++` · `C#` · `SQL` |
+| **Data Visualization & BI** | `Power BI` · `Matplotlib` · `Seaborn` · Interactive Dashboards · Analytical Reporting |
+| **DevOps & Agile** | `Docker` · `Kubernetes` · `SonarQube` · `Git` · Agile Workflows |
+| **Web Development** | `Django` · `FastAPI` · `React` · `Next.js` |
+| **Databases & Vector Stores** | `MySQL` · `PostgreSQL` · `SQLite` · `MongoDB` · `Neo4j` · `FAISS` · `Qdrant` · `ChromaDB` |
 
 <br/>
 
