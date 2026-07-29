@@ -1,9 +1,9 @@
 <!-- Profile README for Alae-Eddine-Akesbi. No personal token is embedded in this file. -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alae-Eddine-Akesbi/Alae-Eddine-Akesbi/main/dark-clean.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alae-Eddine-Akesbi/Alae-Eddine-Akesbi/main/light-clean.svg">
-  <img width="100%" alt="Alae-Eddine Akesbi — AI Engineer" src="https://raw.githubusercontent.com/Alae-Eddine-Akesbi/Alae-Eddine-Akesbi/main/light-clean.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alae-Eddine-Akesbi/Alae-Eddine-Akesbi/main/dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alae-Eddine-Akesbi/Alae-Eddine-Akesbi/main/light-v3.svg">
+  <img width="100%" alt="Alae-Eddine Akesbi — AI Engineer" src="https://raw.githubusercontent.com/Alae-Eddine-Akesbi/Alae-Eddine-Akesbi/main/light-v3.svg">
 </picture>
 
 <div align="center">
