@@ -37,25 +37,6 @@ I design production-oriented AI systems that turn complex business problems into
 
 <br/>
 
-## Selected AI Systems
-
-<div align="center">
-  <a href="https://github.com/Alae-Eddine-Akesbi/AgenticMCP-Selenium">
-    <img width="49%" alt="Agentic MCP Selenium" src="https://github-readme-stats.vercel.app/api/pin/?username=Alae-Eddine-Akesbi&repo=AgenticMCP-Selenium&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=64748B&bg_color=00000000">
-  </a>
-  <a href="https://github.com/Alae-Eddine-Akesbi/CustomerReviewClassifier">
-    <img width="49%" alt="Customer Review Classifier" src="https://github-readme-stats.vercel.app/api/pin/?username=Alae-Eddine-Akesbi&repo=CustomerReviewClassifier&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=64748B&bg_color=00000000">
-  </a>
-  <a href="https://github.com/Alae-Eddine-Akesbi/Research_Mate_X_crewAI">
-    <img width="49%" alt="Research Mate X" src="https://github-readme-stats.vercel.app/api/pin/?username=Alae-Eddine-Akesbi&repo=Research_Mate_X_crewAI&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=64748B&bg_color=00000000">
-  </a>
-  <a href="https://github.com/Alae-Eddine-Akesbi/Gen-AI-ScriptWriter">
-    <img width="49%" alt="Gen AI Script Writer" src="https://github-readme-stats.vercel.app/api/pin/?username=Alae-Eddine-Akesbi&repo=Gen-AI-ScriptWriter&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=64748B&bg_color=00000000">
-  </a>
-</div>
-
-<br/>
-
 ## Technical Skills
 
 | Area | Technologies & Expertise |
